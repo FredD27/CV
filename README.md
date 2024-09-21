@@ -36,7 +36,7 @@ toujours l’enrichissement mutuel.
   > 2. Portfolio
   > 3. Hackathon : Calendrier de l'avent
 
-- \*Artiste comédienne au **Théâtre Molière/Trianon/Victoire/Beaux Arts\***
+- _Artiste comédienne au **Théâtre Molière/Trianon/Victoire/Beaux Arts**_
 
 **Hobbies**
 Théâtre, cinéma, musique, voyages
