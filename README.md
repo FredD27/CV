@@ -2,7 +2,7 @@
 
 ## Je vous présente aujourd'hui mon CV 
 
-Voici un bref aperçu de mes expériences, parcours et compétences dans mon **CV Github**. Il est réalisé dans le cadre d'une quête d'apprentissage de Github dans ma formation TSSR à la Xild Code School.
+Voici un bref aperçu de mes expériences, parcours et compétences dans mon **CV Github**. Il est réalisé dans le cadre d'une quête d'apprentissage de Github dans ma formation TSSR à la Wild Code School.
 
 **A Propos**
 En pleine reconversion, je souhaite aujourd’hui m’engager dans une mission qui fait
