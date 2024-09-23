@@ -1,6 +1,7 @@
 # CV
 
-## Je vous présente aujourd'hui mon CV 
+![Photo de profil](https://cdn.pixabay.com/photo/2012/04/13/01/23/thumbs-up-31663_1280.png)
+
 
 Voici un bref aperçu de mes expériences, parcours et compétences dans mon **CV Github**. Il est réalisé dans le cadre d'une quête d'apprentissage de Github dans ma formation TSSR à la Wild Code School.
 
