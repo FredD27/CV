@@ -3,7 +3,7 @@
 ![Photo de profil](https://cdn.pixabay.com/photo/2012/04/13/01/23/thumbs-up-31663_1280.png)
 
 
-Voici un bref aperçu de mes expériences, parcours et compétences dans mon **CV Github**. Il est réalisé dans le cadre d'une quête d'apprentissage de Github dans ma formation TSSR à la Wild Code School.
+Voici un bref aperçu de mes expériences, parcours et compétences dans mon **CV Github**. Il est réalisé dans le cadre d'une quête d'apprentissage de Github dans ma formation TSSR à la [Wild Code School](https://www.wildcodeschool.com/fr-fr/).
 
 **A Propos**
 En pleine reconversion, je souhaite aujourd’hui m’engager dans une mission qui fait
@@ -24,12 +24,10 @@ toujours l’enrichissement mutuel.
 
 - de septembre 2023 à février 2024
   Titre Professionnel Développeur WEB ET web Mobile (Niveau 5 - Bac + 2) à la **Wild Code School**
-  [https://www.wildcodeschool.com/fr-fr/]
 
 - de septembre 2024 à février 2025
   Titre Professionnel Technicien Supérieur
   Systèmes et Réseaux (Niveau 5 - Bac + 2) à la **Wild Code School**
-  [https://www.wildcodeschool.com/fr-fr/]
 
 **Expérience professionnelle**
 
